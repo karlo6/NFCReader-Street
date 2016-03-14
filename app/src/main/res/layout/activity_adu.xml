@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:layout_margin="@dimen/_15sdp"
+    android:scrollbarStyle="outsideInset"
+    android:fillViewport="false">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/adu_layout">
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/date_1822to1823"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1822-1823"
+            android:layout_marginBottom="@dimen/_10sdp" />
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/date_1822to1823_Layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <su.whs.watl.ui.MultiColumnTextViewEx
+                android:text="@string/date_1822to1823_content"
+                textPaddingLeft="5dp"
+                textPaddingRight="5dp"
+                textPaddingTop="5dp"
+                textPaddingBottom="5dp"
+                asyncReflow="false"
+                columnCount="2"
+                columnSpacing="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:id="@+id/date_1822to1823_layout" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/date_1829"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/date_1829"
+            android:layout_marginBottom="@dimen/_10sdp"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:id="@+id/date_1829_Layout"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal">
+
+            <su.whs.watl.ui.MultiColumnTextViewEx
+                android:text="@string/date_1829_content"
+                textPaddingLeft="5dp"
+                textPaddingRight="5dp"
+                textPaddingTop="5dp"
+                textPaddingBottom="5dp"
+                asyncReflow="false"
+                columnCount="2"
+                columnSpacing="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:id="@+id/date_1829_layout" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/date_1874to1876"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/date_1874to1876"
+            android:layout_marginBottom="@dimen/_10sdp"/>
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/date_1874to1876_Layout">
+
+            <su.whs.watl.ui.MultiColumnTextViewEx
+                android:text="@string/date_1874to1876_content"
+                textPaddingLeft="5dp"
+                textPaddingRight="5dp"
+                textPaddingTop="5dp"
+                textPaddingBottom="5dp"
+                asyncReflow="false"
+                columnCount="2"
+                columnSpacing="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:id="@+id/date_1874to1876_layout" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/date_1941to1945"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/date_1941to1945"
+            android:layout_marginBottom="@dimen/_10sdp"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/date_1941to1945_Layout">
+
+            <su.whs.watl.ui.MultiColumnTextViewEx
+                android:text="@string/date_1941to1945_content"
+                textPaddingLeft="5dp"
+                textPaddingRight="5dp"
+                textPaddingTop="5dp"
+                textPaddingBottom="5dp"
+                asyncReflow="false"
+                columnCount="2"
+                columnSpacing="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:id="@+id/date_1941to1945_layout" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/date_1997"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/date_1997"
+            android:layout_marginBottom="@dimen/_10sdp"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/date_1997_Layout">
+
+            <su.whs.watl.ui.MultiColumnTextViewEx
+                android:text="@string/date_1997_content"
+                textPaddingLeft="5dp"
+                textPaddingRight="5dp"
+                textPaddingTop="5dp"
+                textPaddingBottom="5dp"
+                asyncReflow="false"
+                columnCount="2"
+                columnSpacing="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_10sdp"
+                android:id="@+id/date_1997_layout" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#7E57C2"
+        android:padding="@dimen/_10sdp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="About Intramuros"
+            android:textSize="@dimen/_15sdp"/>
+
+    </LinearLayout>
+
+
+    <ScrollView
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent" android:layout_margin="@dimen/_15sdp"
+        android:scrollbarStyle="outsideInset">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_200sdp"
+                android:src="@drawable/old"
+                android:layout_marginBottom="@dimen/_10sdp"/>
+
+            <su.whs.watl.ui.MultiColumnTextViewEx
+                android:text="@string/about_base"
+                textPaddingLeft="5dp"
+                textPaddingRight="5dp"
+                textPaddingTop="5dp"
+                textPaddingBottom="5dp"
+                asyncReflow="false"
+                columnCount="2"
+                columnSpacing="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_10sdp"/>
+
+            <TextView
+                android:id="@+id/tv_1565"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/date_1565"
+                android:layout_marginBottom="@dimen/_10sdp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/date_1565_layout"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:layout_marginBottom="@dimen/_10sdp">
+
+                <su.whs.watl.ui.MultiColumnTextViewEx
+                    android:text="@string/date_1565_content"
+                    textPaddingLeft="5dp"
+                    textPaddingRight="5dp"
+                    textPaddingTop="5dp"
+                    textPaddingBottom="5dp"
+                    asyncReflow="false"
+                    columnCount="2"
+                    columnSpacing="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_10sdp"/>
+
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_1571"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/date_1571"
+                android:layout_marginBottom="@dimen/_10sdp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/date_1571_layout"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:layout_marginBottom="@dimen/_10sdp">
+
+                <su.whs.watl.ui.MultiColumnTextViewEx
+                    android:text="@string/date_1571_content"
+                    textPaddingLeft="5dp"
+                    textPaddingRight="5dp"
+                    textPaddingTop="5dp"
+                    textPaddingBottom="5dp"
+                    asyncReflow="false"
+                    columnCount="2"
+                    columnSpacing="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_10sdp"/>
+
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tv_1573"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/date_1573"
+                android:layout_marginBottom="@dimen/_10sdp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/date_1573_layout"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:layout_marginBottom="@dimen/_10sdp">
+
+                <su.whs.watl.ui.MultiColumnTextViewEx
+                    android:text="@string/date_1573_content"
+                    textPaddingLeft="5dp"
+                    textPaddingRight="5dp"
+                    textPaddingTop="5dp"
+                    textPaddingBottom="5dp"
+                    asyncReflow="false"
+                    columnCount="2"
+                    columnSpacing="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_10sdp"/>
+
+
+            </LinearLayout>
+
+
+            <TextView
+                android:id="@+id/tv_1945"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/date_1945"
+                android:layout_marginBottom="@dimen/_10sdp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/date_1945_layout"
+                android:orientation="vertical"
+                android:visibility="gone"
+                android:layout_marginBottom="@dimen/_10sdp">
+
+                <su.whs.watl.ui.MultiColumnTextViewEx
+                    android:text="@string/date_1945_content"
+                    textPaddingLeft="5dp"
+                    textPaddingRight="5dp"
+                    textPaddingTop="5dp"
+                    textPaddingBottom="5dp"
+                    asyncReflow="false"
+                    columnCount="2"
+                    columnSpacing="15dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="@dimen/_10sdp"/>
+
+
+            </LinearLayout>
+
+            <su.whs.watl.ui.MultiColumnTextViewEx
+                android:text="@string/about_ending"
+                textPaddingLeft="5dp"
+                textPaddingRight="5dp"
+                textPaddingTop="5dp"
+                textPaddingBottom="5dp"
+                asyncReflow="false"
+                columnCount="2"
+                columnSpacing="15dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_10sdp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,836 @@
+<resources>
+    <string name="app_name">IntraMap</string>
+
+    <string-array name="place_type">
+        <item>airport</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bus_station</item>
+        <item>church</item>
+        <item>doctor</item>
+        <item>hospital</item>
+        <item>mosque</item>
+        <item>movie_theater</item>
+        <item>hindu_temple</item>
+        <item>restaurant</item>
+    </string-array>
+
+    <string-array name="place_type_name">
+        <item>Airport</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Bus Station</item>
+        <item>Church</item>
+        <item>Doctor</item>
+        <item>Hospital</item>
+        <item>Mosque</item>
+        <item>Movie Theater</item>
+        <item>Hindu Temple</item>
+        <item>Restaurant</item>
+    </string-array>
+
+
+    <string name="about_title">
+
+        ABOUT THE INTRAMUROS\n\n
+
+    </string>
+
+    <string name="about_base">
+
+        Then.\n\n\n
+        The site of Intramuros was originally a large and prosperous Malayan Muslim settlement named Maynilad. The name came from may nilad, nilad being a water plant whose star-shaped flowers clustered in abundance along the low-lying riverbanks. The strategic location of Maynilad, being on the Pasig River and the Manila Bay, made it an ideal location for the locals to trade crafts and produce with other peoples of then pre-Hispanic Philippines and other Asian countries, especially with Chinese merchants. Maynilad was also the seat of power for native chiefs that ruled the area before the Spaniards set foot on Philippine soil.
+
+    </string>
+    
+    <string name="date_1565">
+        Spanish Rule\n1565</string>
+
+     <string name="date_1565_content">
+
+        Miguel Lopez de Legaspi began to set foot on Maynilad. Legaspi and his men waged clashes with the natives before they were able to finally establish themselves in the area and have a peace agreement with the local leaders, who, in turn, turned over Maynilad to the Spanish. Citing the strategic economic, political and military importance of Manila, Legaspi promptly declared Manila as the capital of the then new Spanish colony of the Philippines on June 24, 1571. The King of Spain, delighted at the new conquest done by Legaspi and his men, awarded Manila a coat of arms and declared it Insigne y Siempre Leal Ciudad ("Distinguished and ever loyal city"). Planning in the City of Manila was first manifested in the Spanish period plan for Intramuros, which was based on King Philip II\'s Royal Ordinance issued on July 3, 1573 in San Lorenzo, Spain.  Intramuros served as the center of political, military and religious power of the Spaniards during the time that the Philippines was a colony of Spain. Inside Intramuros were Roman Catholic churches, like the Manila Cathedral and the San Agustin Church , and convents and church-run schools, which were usually being run by religious orders such as theDominicans, Augustinians and Franciscans; the Governor\'s Palace, the official residence of the Spanish governor-general to the Philippines before it was officially moved to Malacañang Palace. Malacanang Palace is the official residence of the president of the Philippines. The palace is located along the north bank of the Pasig River in Manila. It is called Palasyo ng Malakanyang in Filipino, and is depicted on the verso (back) side of the 20-; and Fort Santiago.. A defence fortress built by Miguel Lopez de Legaspi. Originally, it stoods the palisade of Rajah Soliman, chieftain of Maynilad. Located at the mouth of the Pasig River, it was once the primer defence fort of the Spanish Empire in the Philippines. It was, the main Spanish garrison in the archipelago where martyr Jose Rizal was once held by Spanish authorities. Only Spaniards were allowed inside Intramuros; the natives and Chinese residents were only limited by the Spanish authorities to live outside the walls of Intramuros.\n\n
+
+     </string>
+
+    <string name="date_1571">1571</string>
+
+     <string name="date_1571_content">
+
+       Citing the strategic economic, political and military importance of Manila, Legaspi promptly declared Manila as the capital of the then new Spanish colony of the Philippines. The King of Spain, delighted at the new conquest done by Legaspi and his men, awarded Manila a coat of arms and declared it Insigne y Siempre Leal Ciudad ("Distinguished and ever loyal city").\n\n
+
+     </string>
+
+    <string name="date_1573">1573</string>
+
+     <string name="date_1573_content">
+
+       Planning in the City of Manila was first manifested in the Spanish period plan for Intramuros, which was based on King Philip II\'s Royal Ordinance in San Lorenzo, Spain.  Intramuros served as the center of political, military and religious power of the Spaniards during the time that the Philippines was a colony of Spain. \n\n
+
+     </string>
+
+     <string name="date_1945">
+        Wolrd War II\n1945</string>
+
+     <string name="date_1945_content">
+
+        Japanese soldiers who had occupied the islands, invaded the site of Intramuros, and killed many civilians and Filipino soldiers; destroying most of the original buildings constructed. Almost 100,000 people died during the liberation of Manila. Intramuros was in ruins after the war and the only structure that survived was the San Agustin and almost no other buildings remained standing.\n\n
+
+     </string>
+
+     <string name="about_ending">
+
+        Now.\n\n\n
+        At present, Intramuros is the only district of Manila where old Spanish-era influences were retained. Much of the development of present-day Manila occurred outside the gates of Intramuros, leaving the old walls, streets and churches of Intramuros minimally untouched by modernization. The old moats that surrounded Intramuros have been transformed into a golf course where locals and foreign nationals play the sport. The garrison that was Fort Santiago is now a tourist spot where visitors could see how Manila was like during the Spanish Era. The old cobblestone streets of Intramuros are now sites for cafes that cater to a variety of clientele and cultural presentations that feature native Filipino heritage.
+
+     </string>
+
+    <!--Aduana Building-->
+
+    <string name="adu">
+
+        Also known as the Intendencia, was a Spanish colonial structure in Manila, Philippines that housed several government offices through the years.
+
+    </string>
+
+    <string name="date_1822to1823">1822 - 1823</string>
+
+    <string name="date_1822to1823_content">
+
+        The Aduana, or Custom House, was built in Intramuros to attract merchants to remain within its walls rather than outside of it.A Spanish engineer Tomás Cortes took charge of the project and began its construction.
+
+    </string>
+
+    <string name="date_1829">1829</string>
+
+    <string name="date_1829_content">
+
+        Despite objections due to insufficient space for warehousing and its distance from the port, the construction continued until its completion.
+
+    </string>
+
+    <string name="date_1874to1876">1874-1876</string>
+
+    <string name="date_1874to1876_content">
+
+        Reconstruction of the building was later awarded to Luis Perez Yap-Sionjue, which began and was completed. The rebuilding of the structure was still based from the original design of Cortes but it has now housed the Custom Offices, the Civil Administration Office (Intendencia General de Hacienda), the Treasury, and the Mint House (Casa de Moneda). When the Customs transferred, the offices of the Mint House and Treasury remained in the building and was renamed as Intendencia
+
+    </string>
+
+    <string name="date_1941to1945">World War II \n 1941-1945</string>
+
+    <string name="date_1941to1945_content">
+
+    The building once again suffered damages; first by the Japanese bombings and later on by the American artillery during the Battle of Manila.It was repaired after the war and functioned as the Offices of the Central Bank of the Philippines, the National Treasury and eventually the Commission on Elections.
+     </string>
+
+    <string name="date_1997">1997</string>
+
+    <string name="date_1997_content">
+
+    The National Archives acquired the building to serve as their future office. Restoration efforts have already commenced as to date.
+     </string>
+
+    <!--Bayleaf-->
+
+    <string name="bay">
+
+    Within the protective three mile-long circuit of massive stone walls rose a city of churches, palaces, museums, fine courtyards and finally, The Bayleaf Intramuros. The Bayleaf Intramuros has earned the coveted Trip Advisor’s Travelers’ Choice Award for three years in a row: 2013, 2014 and 2015.
+
+    </string>
+
+    <string name="dining">Three dining options inside the hotel will certainly add up to the beautiful experience.</string>
+
+    <string name="dining_content">
+
+    A penthouse All Day Dining restaurant with a panoramic view of the city. \n\n
+    A must visit al fresco, roof deck View Bar strategically located for an unobstructed viewing of the skyline, the bay and the famous Manila sunset. \n\n
+    Lastly, a charming Churros Café on the hotel’s ground floor for a quick dose of great coffee and churros pairing, classic home- made sandwiches and pastries plus an array of sweet selections created by the hotel’s pastry chefs and the Culinary School students.
+
+    </string>
+
+    <string name="hall">Banquet hall and meeting rooms for your social or business events</string>
+
+    <string name="hall_content">
+
+    For our guests’ business and social needs, we have 5 modern meeting rooms with high end audio and video set up. For larger events, The Muralla Ballroom has a capacity of 300 persons or it can be divided into three smaller events place. Exclusive access to a terraza overlooking the historic Intramuros wall is also provided.
+
+    </string>
+
+    <string name="date_2011">2011</string>
+
+    <string name="date_2011_content">
+
+    Launched this boutique hotel promises a restful experience for its guests given its 5 star quality beddings, room amenities and a spacious bathroom.
+
+    </string>
+
+    <string name="date_2012">2012</string>
+
+    <string name="date_2012_content">
+
+    The hotel got a Gold Circle Award from Agoda.
+
+    </string>
+
+    <string name="date_2013">2013</string>
+
+    <string name="date_2013_content">
+
+    TripAdvisor also awarded the hotel with its prestigious Certificate of Excellence, placing the hotel in the top-performing 10% of all listed businesses worldwide.
+
+    </string>
+
+    <string name="date_2014to2015">2014-2015</string>
+
+    <string name="date_2014to2015_content">
+
+    TripAdvisor Certificates of Excellence were also awarded respectively.
+
+    </string>
+
+    <!--Cuartel de Santa Lucia-->
+
+    <string name="date_1781">1781</string>
+
+    <string name="date_1781_content">
+
+    It was constructed for the Artelería de la Montana following the plans of Tomas Sanz. Its construction was executed during the governorship of José Basco y Vargas.
+
+    </string>
+
+    <string name="date_1901">1901</string>
+
+    <string name="date_1901_content">
+
+    The Philippine Constabulary used the buildings as its headquarters.
+
+    </string>
+
+    <string name="date_1905">1905</string>
+
+    <string name="date_1905_content">
+
+    It was opened as a military school, or the Philippine Military Academy in Baguio at present. The building turned into ruins during World War II, thus, the remaining walls were reconstructed by the Philippine Constabulary. The interior was never rebuilt and is being converted into a park.
+
+    </string>
+
+    <string name="gate">Existing structures within the vicinity</string>
+
+    <string name="gate_content">
+
+        Santa Lucia Gate
+
+    </string>
+
+    <string name="date_1778to1787">1778-1787 </string>
+
+    <string name="date_1778to1787_content">
+
+    The Santa Lucia Gate, or Puerta de Santa Lucia, was built at the end of Calle Real del Parian. It also served as the principal egress going to the seashore. It was built by Governor General Jose Basco y Vargas during the reign of King Carlos III.
+
+    </string>
+
+    <string name="date_1781to1791">1781-1791</string>
+
+    <string name="date_1781to1791_content">
+
+    The planning for the construction of the gate started, and was completed, drawn by Brambila.
+
+    </string>
+
+    <string name="bea">Beaterio de la Compañia</string>
+
+    <string name="dated_1778to1787">1778-1787</string>
+
+    <string name="dated_1778to1787_content">
+
+    Founded by Ignacia del Espíritu Santo, a mestiza Chinese from Binondo, the beaterio housed the beatas, lay sisters dedicated to prayer and charitable work. the Beatas had a residence along Calle Santa Lucia. The Beaterio was simple structure of mortar. Its main entrance was through an arched portal, which led to a large hall; the wings to the left for the residences. The windows were composed of simple rectangles.
+
+    </string>
+
+    <string name="date_1948">1948</string>
+
+    <string name="date_1948_content">
+
+   The Beatas de la Compañia which was housed in this building is a Rome recognized religious congregation.
+
+    </string>
+
+
+    <!--Fort Santiago-->
+
+    <string name="fort">
+
+       The old walled city of Manila, the Intramuros, has always held a certain fascination for Manileños. Fort Santiago the main defense to the port of Manila.
+    </string>
+
+    <string name="orig_fort">Origin of the Name</string>
+
+    <string name="orig_fort_content">
+
+        Fort Santiago was named after Saint James the Great (Santiago in Spanish), the patron saint of Spain. A wooden relief sculpture portraying Saint James slaying Moorish enemies decorates the fort’s main gate and below it is the seal of Spain, the seal of Spain is practically gone with a six-sided star imposed over it. The meaning of this star seems to be a mystery as it was removed when the gate was reconstructed.
+    </string>
+
+    <string name="dated_1571">1571</string>
+
+    <string name="dated_1571_content">
+
+        Miguel Lopez de Legazpi and his troops occupied Rajah Sulayman’s village. They started building Fort Santiago (Fuerte de Santiago) after the establishment of the city of Manila under Spanish rule and made Manila the capital of the newly colonized islands.
+    </string>
+
+    <string name="date_1574">1574</string>
+
+    <string name="date_1574_content">
+
+       The first fort was a structure of palm logs and earth. Most of it was destroyed when the city was invaded by Chinese pirates, led by Limahong.  After a fierce conflict, the Spaniards under the leadership of Juan de Salcedo, eventually drove the pirates out of the country.
+    </string>
+
+    <string name="date_1580to1594">1580-1594</string>
+
+    <string name="date_1580to1594_content">
+
+    The first architect of Intramuros was Antoñio Sedeño, a Spanish Jesuit, provided guidance in design and construction of buildings in Manila along traditional Western influences. After designing the impressive residence of Manila’s first Bishop Salazar, he started reconstructing buildings into bahay-na-bato (stone houses) that gave Intramuros its monumentality and grandeur.
+
+    </string>
+
+    <string name="date_1590to1593">1590-1593</string>
+
+    <string name="date_1590to1593_content">
+
+    Father Sedeño drew the plans for the fort himself and directed the construction by showing the natives and Sangley (Chinese) laborers how to quarry stones, finish and lay them. The stones used were consolidated volcanic ash quarried from Guadalupe (now Guadalupe Viejo in Makati). The construction of Fort Santiago with hard stone, together with the original fortified walls of Intramuros, commenced and finished during the reign of Governor-General Gomez Perez Dasmariñas.
+
+    </string>
+
+    <string name="date_1906">1906</string>
+
+    <string name="date_1906_content">
+
+    Fort Santiago had been used as a detention center for centuries. Many stories have been told of torture and execution during the Japanese occupation by the notorious Kempei Tai, secret military arm of the Imperial Japanese Army. However, these stories are not unique in the annals of the fort’s history as explained by George A. Miller, “Interesting Manila”.
+
+    </string>
+
+    <!--Colegio de San Juan De Letran-->
+
+    <string name="let">Origin of the Name</string>
+
+    <string name="let_content">
+
+    The name San Juan de Letran was inspired from the major basilica of Saint John Lateran in Rome, mother of all Christian churches. Early in the history of the College, its chapel was granted many of the privileges enjoyed by the major Basilica. Saint John the Baptist for whom the Basilica is named, is also the patron saint of the College.
+
+    </string>
+
+    <string name="date_1620">1620</string>
+
+    <string name="date_1620_content">
+
+    The first was founded by Don Juan Geronimo Guerrero, a retired Spanish Officer, who transformed his hermitage home into an orphanage called the Colegio de Niños Huerfanos de San Juan de Letran. Its purpose was to educate and mold orphans into good Christian citizens.
+
+    </string>
+
+    <string name="date_1690">1690</string>
+
+    <string name="date_1690_content">
+
+    Letran was declared as an ecclesiastical college.
+
+    </string>
+
+    <string name="date_1738">1738</string>
+
+    <string name="date_1738_content">
+
+    Six scholarships were granted by the King of Spain for Chinese, Japanese, and Tongkinese (Vietnamese) students. St. Vicente Liem de la Paz was among the students who enjoyed this scholarship.
+
+    </string>
+
+    <string name="date_1865">1865</string>
+
+    <string name="date_1865_content">
+
+    A royal decree pronounced Letran as a College of the First Class.
+
+    </string>
+
+    <string name="date_1886">1886</string>
+
+    <string name="date_1886_content">
+
+    The school’s curriculum was reviewed and revised according to European and American patterns.
+
+    </string>
+
+    <string name="date_1894to1900">1894-1900</string>
+
+    <string name="date_1894to1900_content">
+
+    Further expansion took place and adjustments were made with the arrival of the Americans.
+
+    </string>
+
+
+    <string name="date_1941to1944">1941-1944</string>
+
+    <string name="date_1941to1944_content">
+
+    The growth of the Colegio was temporarily arrested when the building was bombed and then turned into a garrison by the Japanese army.
+
+    </string>
+
+    <string name="date_1946">1946</string>
+
+    <string name="date_1946_content">
+
+    The Colegio was temporarily housed in the Dominican church and convent of San Juan del Monte. After the war, Letran returned to its home in Intramuros.
+
+    </string>
+
+    <!--Lyceum of the Philippines University-->
+
+    <string name="lyc">Origin of the Name</string>
+
+    <string name="lyc_content">
+
+    With his admiration for knowledge and his appreciation of classical thought, Dr. Laurel named the school Lyceum of the Philippines after Lykeios, the site in ancient Athens where the great Philosopher Aristotle nurtured the minds of his protegees.
+
+    </string>
+
+    <string name="philo">Educational Philosophy</string>
+
+    <string name="philo_content">
+
+    Lyceum of the Philippines University ,an institution of higher learning, inspired by the ideals of Philippine President Jose P. Laurel, is committed to the advancement of his philosophy and values: Veritas et Fortitudo" (truth and fortitude) and "Pro Deo et Patria" (for God and Country).
+
+    </string>
+
+    <string name="date_1920">1920</string>
+
+    <string name="date_1920_content">
+
+    The inspiration to establish a school came to him while a student at Yale. Three decades later, along with some of his close friends, he turned this dream into a reality.
+
+    </string>
+
+    <string name="date_1952">1952</string>
+
+    <string name="date_1952_content">
+
+   With the aim of becoming a center of academic excellence in the Philippines and the Far East, Lyceum of the Philippines University (as it is now known) formally opened its doors to the public.
+
+    </string>
+
+    <string name="date_1966">1966</string>
+
+    <string name="date_1966_content">
+
+    Laurel founded the Lyceum of the Philippines University-Batangas followed by Lyceum of the Philippines-Laguna in 2000. Both campuses are now headed by Senator Laurel’s fourth son Dr. Peter P. Laurel.
+
+    </string>
+
+    <string name="date_2008">2008</string>
+
+    <string name="date_2008_content">
+
+    Another campus in Cavite was established to bring the total number of LPU campuses to five with a grand total enrollment of approximately 37,000 students, about 15,000 of whom are enrolled in various hospitality courses. Senator Laurel’s eldest son, Atty. Roberto P. Laurel, heads the Manila, Makati and Cavite campuses.
+
+    </string>
+
+    <!--Manila Cathedral-->
+
+    <string name="man">
+
+    The present Manila Cathedral, situated at the heart of the walled city of Intramuros has gone several major reconstructions since its inception. The Neo-Romanesque-Byzantine cathedral has long been the seat of archbishop in the Philippines. And it continuous to be one of the most admired churches in the country.
+
+    </string>
+
+    <string name="date_1521">1521</string>
+
+    <string name="date_1521_content">
+
+    Ferdinand Magellan set foot in the Philippines, it mark the arrival of Catholicism in the Philippines. The Spanish colonization paved way for the spread of Christianity and the era of western church architecture in the Philippines. During the three centuries of colonization it produced grandly design churches; one of these is the Manila Cathedral.
+
+    </string>
+
+    <string name="ecc">The Seat of Spain’s Ecclesiastical Rule</string>
+
+    <string name="dates_1571">1571</string>
+
+    <string name="dates_1571_content">
+
+    Mandated with the mission of the sword and the cross, Miguel Lopez de Legazpi, occupied Manila. Then the Spanish conquistador assigned an area for his new settlement for a church. The cathedral was known as Church of Our Lady of the Immaculate under the patronage of the La Purisima Immaculada Conception.
+
+    </string>
+
+    <string name="date_1583">1583</string>
+
+    <string name="date_1583_content">
+
+    The church was made of the common structural materials of that time. The main materials used are nipa, wood and bamboo. The fire that razed the city prompted the first reconstruction of the church.
+
+    </string>
+
+    <string name="date_1614to1945">1614-1945</string>
+
+    <string name="date_1614to1945_content">
+
+    The new stone cathedral was built. The architectural design consists of naves, chapels and altars. Another earthquake toppled the church and left everything in ruins.
+
+    </string>
+
+    <string name="evo">Constant Evolution of Architectural Design</string>
+
+    <string name="date_1681to1863">1681-1863</string>
+
+    <string name="date_1681to1863_content">
+
+    The cathedral repeatedly rose from ruins only to pick itself up again from the rubbles. On the architectural perspective it gave opportunity to introduce a new style in every restoration that has been made.
+
+    </string>
+
+    <string name="date_1879">1879</string>
+
+    <string name="date_1879_content">
+
+    Don Vicente Serrano y Salaverri employed the Romanesque-Byzantine style to the cathedral. His design has endured and has been adopted by the present cathedral. The church’s external appearance is characterized by round arches, thick walls and large towers. The interior was richly decorated, naves are spacious, the dome was raised on a fenestrated drum, and the arches are beautifully ornamented.
+
+    </string>
+
+    <string name="date_1958">1958</string>
+
+    <string name="date_1958_content">
+
+    The cathedral’s last major restoration came after the ashes of World War II.Architect Fernando Ocampo was inspired by Serrano’s design but added more to its previous appearance to make it more functional in using space. It featured marbled floors, mosaic panels, arcaded colonnades, lovely columns and a Immaculate Conception themed cathedral, His Neo-Romanesque design is a combination of revival, renaissance and modern styles. The present cathedral is a product of the old cathedral’s great design mixed with Ocampo’s architectural touch. In an architectural sense, the Manila Cathedral is characterized by a constant evolution of its identity, changing styles in its more than three centuries of history.
+
+    </string>
+
+    <string name="tele">Telephone Numbers:</string>
+
+    <string name="tele_content">
+
+    (632) 5273093 \n
+    (632) 5271796
+
+
+    </string>
+
+    <string name="mass">Schedule of Masses:</string>
+
+    <string name="mass_content">
+
+    Monday to Friday: \n 7:30AM \n 12:10PM \n\n
+    Saturday: \n 7:30AM ONLY \n\n
+    Sunday: \n 7:00AM \n 8:30AM \n 10:00AM \n 11:30AM \n 6:00PM
+
+    </string>
+
+    <!--MAPUA-->
+
+    <string name="map">MAPUA</string>
+
+    <string name="map_content">
+
+        MIT is a non-sectarian institute for higher learning pioneering in technical education. Initially located on Carriedo Street in Quiapo, Manila, it started out as a night school, with 80 students enrolled in civil engineering and architecture.
+
+    </string>
+
+    <string name="date_1903">1903</string>
+
+    <string name="date_1903_content">
+
+     Mapúa and Justina Bautista, Don Tomas obtained his degree at Cornell University in Ithaca, New York in the US where he moved to pursue his high school and college education.
+
+    </string>
+
+    <string name="don">Don Thomas</string>
+
+    <string name="don_content">
+
+    Don Tomas was known for his great contributions in the field of architecture especially when he joined the Bureau of Public Works upon his return to the Philippines. He initially worked as a draftsman in the agency before he was appointed supervising architect. \n
+
+    He spearheaded many government projects including the Philippine General Hospital, Psychopathic Building (National Mental Hospital) and the School for the Deaf and Blind, according to the National Historical Commission of the Philippines (NHCP). \n\n
+
+    He also designed the Manila Post Office Building, which was built by Don Enrique Yuchengco, a collaboration years ago that perhaps presaged the changing of hands at MIT at the turn of the century.
+
+    His designs for private homes had also been adjudged as among Manila’s beautiful houses before World War II.
+
+    </string>
+
+    <!--Manila High School-->
+
+    <string name="date_1921">1921</string>
+
+    <string name="date_1921_content">
+
+    The city government of Manila established secondary schools in each of the four districts; the Manila East, West, North and South High Schools. Manila High School was renamed as the Manila South High School due to its location at the south of the mouth of Pasig River.
+
+    </string>
+
+    <string name="dates_1930">1930</string>
+
+    <string name="dates_1930_content">
+
+    It was renamed as Araullo High School, in memory of Justice Manuel Araullo. Eventually, it was completely destroyed during World War II. Araullo High School was reopened in its new location, at the compound of Epifanio de los Santos Elementary School in Paco.
+
+    </string>
+
+    <string name="date_1947">1947</string>
+
+    <string name="date_1947_content">
+
+    These quonset huts were acquired by the Division of City Schools. First and second year high school students use the Mehan Annex.
+
+    </string>
+
+    <string name="dated_1948">1948</string>
+
+    <string name="dated_1948_content">
+
+    Former Manila Mayor Arsenio H. Lacson approved Ordinance 3122, changing the name, Araullo High School, into Manuel Roxas High School, in honor of the first President of the Philippines, President Manuel A. Roxas.
+
+    </string>
+
+    <string name="date_1953">1953</string>
+
+    <string name="date_1953_content">
+
+    The site of the Cuartel de España in Intramuros was the initial location of Manila High School, by the declaration of Resolution 283. However, due to the delay of construction, quonset huts were utilized as the main building of the high school.
+
+    </string>
+
+    <string name="dated_1958">1958</string>
+
+    <string name="dated_1958_content">
+
+    Then, he approved Ordinance 4067, declaring the separation of Roxas High School into four annexes. The Canonigo Annex became the present Roxas High School while the Mehan, Victoria (Intramuros), and MacArthur Annexes were combined and transformed into the new Manila High School.
+
+    </string>
+
+    <string name="date_1963">1963</string>
+
+    <string name="date_1963_content">
+
+    The remaining two annexes, the MacArthur and Victoria, were transferred to a three-storey building, located in General Luna Street. Intramuros/Victoria Annex became the home of the first Manila Science High School. Arrangements were made to transfer the Manila Science High School at Padre Faura Street corner Taft Avenue (former site of Araullo High School).
+
+    </string>
+
+    <string name="date_1964">1964</string>
+
+    <string name="date_1964_content">
+
+    The first year high school students were housed at the McArthur Annex, leaving the second year classes at the Mehan Annex.
+
+    </string>
+
+    <!--Pamantasan Lungsod ng Maynila-->
+
+    <string name="date_1951to1960">1951-1960</string>
+
+    <string name="date_1951to1960_content">
+
+    PLM conception started during the administration of Mayor Arsenio H. Lacson. The first elective mayor of the City of Manila he approved Ordinance No. 4202 The Municipal Board has allocated P1-Million to establish the University. The Board committee that spearheaded and allocated funds for the creation of the city university was chaired by then-Councilor Ernesto M. Maceda.
+
+    </string>
+
+    <string name="dates_1963">1963</string>
+
+    <string name="dates_1963_content">
+
+    Mayor Villegas issued Executive Order No. 7, s-1963, creating a Planning and Working Committee to draw up a plan to establish the city university. The committee was chaired by Dr. Benito F. Reyes and the members were Gabriel Formoso, Leoncio Monzon, Alfredo Morales, Vicente Albano Pacis, Jose S. Roldan, and Carlos Moran Sison, with Atty. Primitivo de Leon as its secretary.
+
+    </string>
+
+    <string name="nat">Creation by National Legislation</string>
+
+    <string name="dated_1964">1964</string>
+
+    <string name="dated_1964_content">
+
+    Mayor Villegas co-opted the aid of then-Congressman Justo R. Albert of the 4th congressional district of the City of Manila to sponsor a bill in the House of Representatives of the Congress of the Philippines seeking to create the city university. Filed as House Bill No. 8349 in the Lower House, the Senate version was spearheaded by Senators Gil Puyat and Camilo Osias.
+
+    </string>
+
+    <string name="date_1965">1965</string>
+
+    <string name="date_1965_content">
+
+    The consolidation of the two bills was tackled during the Fourth Session of the Fifth Congress which began and was held in the City of Manila. The consolidated bill was thereafter passed by the joint Congress with the House of Representatives finally passing while the Philippine Senate finally passed. The final bill was signed by Senate President Ferdinand E. Marcos and House Speaker Cornelio T. Villareal with Mr. Regino S. Eustaquio, Secretary of the Senate, and Mr. Inocencio B. Pareja, Secretary of the House of Representatives.
+
+    </string>
+
+    <string name="app">Presidential Approval of the Congressional Act</string>
+
+    <string name="app_content">
+
+    The final bill entitled "An Act Authorizing the City of Manila to Establish and Operate the University of the City of Manila and for Other Purposes" was signed into law by President Diosdado P. Macapacal in a signing ceremony in Malacañang Palace witnessed by Atty. Primitivo de Leon, Mayor Villegas, Congressman Ramon Mitra Jr., and its main sponsor in the House of Representatives, Congressman Albert. The law was captioned as Republic Act No. 4196 which now serves as the University Charter.
+
+    </string>
+
+    <string name="day">A Day of Double Significance</string>
+
+    <string name="day_content">
+
+    The birth of Pamantasan on a June 19 is made even more significant than ever by the fact that it was made to coincide with the birth of the Philippine national hero, Dr. Jose P. Rizal, who has a great aptitude for study, thereby earning several degrees and titles during his teen years with flying colors. Multi-talented as he was, Rizal concept of the importance of education is clearly enunciated in his work entitled Instruction.
+
+    </string>
+
+    <string name="sem">The Seminal Direction</string>
+
+    <string name="date_1967">1967</string>
+
+    <string name="date_1967_content">
+
+    The University was so named Pamantasan ng Lungsod ng Maynila from the official English name by Mayor Villegas. The Board of Regents was formally formed in the same year as Mayor Villegas appointed its members. The university regents were sworn into office which eventually conducted its first official board meeting and the election of its officers at the Maharnilad.
+
+    </string>
+
+    <string name="date_1970">1970</string>
+
+    <string name="date_1970_content">
+
+    Then Executive Secretary Ernesto M. Maceda, by authority of then President Ferdinand Marcos, conveyed unto the City of Manila two (2) parcels of land owned by the Republic of the Philippines. Said real properties consist the area where PLM stands today.
+
+    </string>
+
+    !--Manila Bulletin-->
+
+    <string name="mnlb">
+
+    It is the first newspaper company in the Philippines to go public.  As of date, it is the oldest newspaper published in the country and the second oldest English newspaper in the Far East.  It started as a commercial newspaper, publishing advertisements of shipping companies.
+
+    </string>
+
+    <string name="date_1900">1900</string>
+
+    <string name="date_1900_content">
+
+    Founded as a shipping journal, it is the second-oldest Philippine newspaper, second only to The Manila Times.
+
+    </string>
+
+    <string name="date_1986">1986</string>
+
+    <string name="date_1986_content">
+
+    The newspaper was originally owned by a Swiss expatriate named Hans Menzi. Its name was changed from Bulletin Today.
+
+    </string>
+
+    <string name="date_1990to2000">1990-2000</string>
+
+    <string name="date_1990to2000_content">
+
+    The company has been listed on the Philippine Stock Exchange, and had revenues of approximately US 45 million. Besides its flagship it publishes two other daily tabloids, Tempo and Balita, as well as nine magazines such as the Philippine Panorama, Bannawag, Liwayway, Bisaya and a host of other journals in English, Tagalog, Cebuano and other Philippine languages.
+
+    </string>
+
+    <!--Puerta del Parian-->
+
+    <string name="pue">Origin of the Name</string>
+
+    <string name="pue_content">
+
+    The gate was named after the Parian de Arroceros, one of the earliest concentrations of Chinese merchants located across the city where the Metropolitan Theater now stands.
+
+    </string>
+
+    <string name="date_1593">1593</string>
+
+    <string name="date_1593_content">
+
+    It is one of the earliest entrances to Intramuros.
+
+    </string>
+
+    <string name="date_1764">1764</string>
+
+    <string name="date_1764_content">
+
+    It became the official entrance of the Governor-General, following the destruction of Puerta Real during the British invasion. It was here that the newly appointed Governor-General received the keys of the city from the Cabildo.
+
+    </string>
+
+    <string name="dated_1982">1982</string>
+
+    <string name="dated_1982_content">
+
+   With the aim of becoming a center of academic excellence in the Philippines and the Far East, Lyceum of the Philippines University (as it is now known) formally opened its doors to the public.
+
+    </string>
+
+    <string name="date_1982">1982</string>
+
+    <string name="date_1982_content">
+
+    The Parian gate was severely damaged by artillery shelling during the Battle of Manila. Restoration begun in 1967 and completed.
+
+    </string>
+
+    <!--San Agustin-->
+
+    <string name="san">
+
+    San Agustin church has been one of the premier churches during the Spanish period. It served as the source of the political influence of the Spanish colonial rule in the Philippines. Today, its contribution to nationhood will forever be embedded in the history of our country. Notwithstanding, the San Agustin Museum is home to a collection of Spanish era artifacts, furniture, paintings, statues and other church ornaments.
+
+    </string>
+
+    <string name="his">The History of the Church</string>
+
+    <string name="dat_1571">1571</string>
+
+    <string name="dat_1571_content">
+
+    The San Agustin Church was under the auspices of the Agustinian Order. The friars took the cudgels in building the church. Like many structures during that time, the church of San Agustin was built with the use of nipa and bamboo. The building of the church started, it was then officially named as Iglesia y Convento de San Pablo.
+
+    </string>
+
+    <string name="date_1574to1583">1574-1583</string>
+
+    <string name="date_1574to1583_content">
+
+    The Chinese pirate, Limahong invaded Manila. The invasion led to the burning of the city and the San Agustin Church was not spared. This led to the first reconstruction of the church a year later. The second church was made of wooden materials. Because of the choice of the structural material used, it remained risky to fire accidents. True enough, another fire caused the destruction of the church.
+
+    </string>
+
+    <string name="date_1586">1586</string>
+
+    <string name="date_1586_content">
+
+    The Augustinian friars made sure not to commit the same mistakes and so they decided to build the new church using adobe stones. They appointed Juan Macias to lead the design and construction of the church. The structure endured even on the strongest earthquake that hit Manila from the 16th to 17th century. The only major damaged that the San Agustin endured was the collapse of one of the church’s bell tower, which was then permanently removed thereafter.
+
+    </string>
+
+    <string name="dated_1945">1945</string>
+
+    <string name="dated_1945_content">
+
+    The San Agustin Church became the seat of the Immaculate Conception Parish. The archbishop of Manila requested for the transfer of the seat of parish from the Cathedral to the San Agustin Church. After the war, the church also became the host of the first Philippine Plenary Council.
+
+    </string>
+
+    <string name="date_1993">1993</string>
+
+    <string name="date_1993_content">
+
+    named by UNESCO as a World Heritage Site. These Spanish era churches were classified under Baroque Churches of the Philippines.
+
+    </string>
+
+    <string name="tel">Telephone Numbers:</string>
+
+    <string name="tel_content">
+
+    (632) 527-4052\n
+    (632) 527-4060
+
+    </string>
+
+    <string name="mas">Schedule of Masses:</string>
+
+    <string name="mas_content">
+
+    Monday to Friday: \n 06:30AM-07:00AM \n 07:00AM-07:30 AM \n 05:30PM-06:30PM \n\n
+    Saturday: \n 07:00AM-07:30AM \n 05:30PM-06:30PM \n\n
+    Sunday: \n 8:00AM-9:00AM \n 10:00AM-11:00AM \n 06:00PM-07:00PM
+
+    </string>
+
+</resources>
