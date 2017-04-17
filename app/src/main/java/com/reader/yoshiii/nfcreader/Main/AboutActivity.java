@@ -22,30 +22,30 @@ public class AboutActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_about);
 
-        _1565 = (TextView)findViewById(R.id.tv_1565);
-        _1571 = (TextView)findViewById(R.id.tv_1571);
-        _1573 = (TextView)findViewById(R.id.tv_1573);
-        _1945 = (TextView)findViewById(R.id.tv_1945);
-
-        _1565_layout = (LinearLayout) findViewById(R.id.date_1565_layout);
-        _1571_layout = (LinearLayout) findViewById(R.id.date_1571_layout);
-        _1573_layout = (LinearLayout) findViewById(R.id.date_1573_layout);
-        _1945_layout = (LinearLayout) findViewById(R.id.date_1945_layout);
-
-        _1565.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-                if(_1565_layout.getVisibility() == View.GONE){
-                    _1565_layout.setVisibility(View.VISIBLE);
-                }
-
-                else{
-                    _1565_layout.setVisibility(View.GONE);
-                }
-
-            }
-        });
+//        _1565 = (TextView)findViewById(R.id.tv_1565);
+//        _1571 = (TextView)findViewById(R.id.tv_1571);
+//        _1573 = (TextView)findViewById(R.id.tv_1573);
+//        _1945 = (TextView)findViewById(R.id.tv_1945);
+//
+//        _1565_layout = (LinearLayout) findViewById(R.id.date_1565_layout);
+//        _1571_layout = (LinearLayout) findViewById(R.id.date_1571_layout);
+//        _1573_layout = (LinearLayout) findViewById(R.id.date_1573_layout);
+//        _1945_layout = (LinearLayout) findViewById(R.id.date_1945_layout);
+//
+//        _1565.setOnClickListener(new View.OnClickListener() {
+//            @Override
+//            public void onClick(View v) {
+//
+//                if(_1565_layout.getVisibility() == View.GONE){
+//                    _1565_layout.setVisibility(View.VISIBLE);
+//                }
+//
+//                else{
+//                    _1565_layout.setVisibility(View.GONE);
+//                }
+//
+//            }
+//        });
 
         _1571.setOnClickListener(new View.OnClickListener() {
             @Override
